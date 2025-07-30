@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justtin Samuel Liman
 
-🚀 I'm an aspiring **Fullstack Developer** transitioning from a career in **tax reporting** to **tech**—driven by curiosity, lifelong learning, and the desire to build useful, impactful software.
+🚀 I'm an aspiring **Fullstack Developer** transitioning from a career in **Taxation** to **tech**. Driven by curiosity, lifelong learning, and the desire to build useful, impactful software.
 
 🧠 Currently focused on:
 - JavaScript, TypeScript, React, and Next.js
